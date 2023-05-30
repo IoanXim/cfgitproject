@@ -1,2 +1,6 @@
 Hello!
+<<<<<<< HEAD
 *hi*
+=======
+Hello cf4
+>>>>>>> hotfix
